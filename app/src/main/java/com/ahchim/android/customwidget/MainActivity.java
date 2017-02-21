@@ -1,4 +1,4 @@
-package com.ahchim.customwidget;
+package com.ahchim.android.customwidget;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

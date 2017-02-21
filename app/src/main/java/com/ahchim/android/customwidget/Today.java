@@ -1,4 +1,4 @@
-package com.ahchim.customwidget;
+package com.ahchim.android.customwidget;
 
 import android.content.Context;
 import android.content.res.TypedArray;

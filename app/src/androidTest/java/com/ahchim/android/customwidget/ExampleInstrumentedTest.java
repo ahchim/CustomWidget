@@ -1,4 +1,4 @@
-package com.ahchim.customwidget;
+package com.ahchim.android.customwidget;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
